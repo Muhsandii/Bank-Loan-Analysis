@@ -1,2 +1,5 @@
 # Bank-Loan-Analysis
-Business Problem: Sebuah institusi keuangan ingin mengevaluasi performa portofolio pinjamannya. Tim Data Analyst diminta menganalisis distribusi pinjaman, profil peminjam, tingkat risiko, dan pola pembayaran untuk membantu pengambilan keputusan terkait strategi pemberian pinjaman.
+Business Problem: A financial institution wants to evaluate the performance of its loan portfolio. The Data Analyst team is asked to analyze loan distribution, borrower profiles, risk levels, and repayment patterns to aid in decision-making regarding lending strategy.
+
+## Business Analysis
+The management team wants to evaluate the bank's lending portfolio to identify loan performance, high-risk segments, customer characteristics, and regional opportunities.
