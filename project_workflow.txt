@@ -1,0 +1,33 @@
+  DATA ANALYTICS WORKFLOW
+
+
+        CSV Dataset
+             │
+             ▼
+     PostgreSQL Database
+             │
+             ▼
+      Data Cleaning
+             │
+             ▼
+ Exploratory Data Analysis
+             │
+             ▼
+     Business Analysis
+             │
+             ▼
+       Advanced SQL
+             │
+             ▼
+      SQL Views Creation
+             │
+             ▼
+    Power BI Dashboard
+             │
+   ┌─────────┼─────────┐
+   ▼         ▼         ▼
+Executive  Portfolio   Risk
+Summary    Analysis   Analysis
+             │
+             ▼
+      Business Insights
