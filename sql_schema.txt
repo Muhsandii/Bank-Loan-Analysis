@@ -1,0 +1,21 @@
++--------------------------------+
+|          loan_data             |
++--------------------------------+
+| id                             |
+| issue_date                     |
+| loan_amount                    |
+| total_payment                  |
+| installment                    |
+| int_rate                       |
+| dti                            |
+| loan_status                    |
+| grade                          |
+| sub_grade                      |
+| purpose                        |
+| annual_income                  |
+| home_ownership                 |
+| verification_status            |
+| term                           |
+| emp_length                     |
+| address_state                  |
++--------------------------------+
